@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, Soy Layo</h1>
-<h3 align="center">Estudiante de Ingenieria en Sistemas 🌟.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programador+Full+Stack..&hearts;++;Desarrollador+Back-End+autodidacta;Ingeniero+en+sistemas,;Aprendiz+activo/Investigador,;programación+y+tecnología;Me+encanta+aprender+cosas+nuevas..<3"></a>
+</p>
+
+
 
 <br>
 
@@ -11,12 +15,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 - 🌱  Actualmente estoy aprendiendo Desarrollo Web y mas lenguajes de programación.
 
 - 📫 Cómo comunicarse conmigo **murgasortega@gmail.com**
 
-- ⚡ Dato Curioso :- El deporte y la música🎵 son las razones para vivir.
+- ⚡ Dato Curioso: El deporte y la música🎵 son las razones para vivir.
 <br>
 
 <h3 align="left">Contacto:</h3>
@@ -70,7 +74,6 @@
        <img      src="https://camo.githubusercontent.com/3b41d3ae73bc489dbb2be32e772cc814e3a76e372027056c72e5b970c04684a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="tailwind" width="40"
       height="40" /> </a>
       </p>
-
       
  ### - Lo que Hago
 
@@ -83,8 +86,10 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Mantente Increible</i>⚡️</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------
+----------------------------------------------------------------------
+
+
 
 <br>
